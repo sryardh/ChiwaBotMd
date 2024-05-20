@@ -475,6 +475,9 @@ exports.allMenu = (role, ucapanWaktu, pushname, lebaran, mundur, upload, downloa
 ╠┈┈┈┈「 *OWNER MENU* 」┈┈┈┈┈✧
 ╎╭─────────────────✧
 ╎│${petik}
+╎│•ぎ ${prefix}pushkontakgc
+╎│•ぎ ${prefix}pushkontakid
+╎│•ぎ ${prefix}pushkontakidjd
 ╎│•ぎ ${prefix}pushkontak
 ╎│•ぎ ${prefix}jpm
 ╎│•ぎ ${prefix}banuser
@@ -2097,7 +2100,9 @@ exports.ownerMenu = (role, ucapanWaktu, pushname, lebaran, mundur, upload, downl
 ╔┈┈┈┈「 *OWNER MENU* 」┈┈┈┈┈✧
 ╎╭─────────────────✧
 ╎│${petik}
-╎│❏ ${prefix}pushkontak
+╎│❏ ${prefix}pushkontakgc
+╎│❏ ${prefix}pushkontakid
+╎│❏ ${prefix}pushkontakidjd
 ╎│❏ ${prefix}jpm
 ╎│❏ ${prefix}self
 ╎│❏ ${prefix}public
