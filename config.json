@@ -1,6 +1,7 @@
 {
   "ownerNumber": [
-    "6281775165315@s.whatsapp.net"
+    "6281775165315@s.whatsapp.net",
+    "6287813741214@s.whatsapp.net"
   ],
   "ownerName": "Akane Chiwa ><",
   "instagram": "https://instagram.com/akane_chiwa",
@@ -9,6 +10,9 @@
   "gmail": "akanechiwa.ch@gmail.com",
   "botName": "ChiwaBotMd",
   "footer": "© ChiwaBot-Md",
+  "plta": "ptla_2X1DcDsuZ78oG55SmAxKmpW0g1wRMmjRVZcGWecHyH9",
+  "domain": "https://panel-yorza.chiwa.lighting",
+  "pltc": "ptlc_wIxPlpqZQVn6FJy2EtnhMNgfwEZXhiRyOw23CYVcOwg",
   "sessionName": "session",
   "fotoDonasi": "./dana.jpg",
   "saweria": "https://saweria.co/Juun4",
@@ -32,9 +36,9 @@
   "autoblok212": false,
   "autoread": false,
   "gamewaktu": 90,
-  "limitCount": 3,
+  "limitCount": 20,
   "gcount": {
     "prem": 1000,
-    "user": 3
+    "user": 15
   }
 }
