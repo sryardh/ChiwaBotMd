@@ -1259,6 +1259,7 @@ exports.updatedMenu = (role, ucapanWaktu, pushname, lebaran, mundur, upload, dow
 ╠┈┈┈┈「 *LIST MENU* 」┈┈┈┈┈✧
 ╎╭─────────────────✧
 ╎│${petik}
+╎│•ぎ ${prefix}otakusearch
 ╎│•ぎ ${prefix}animesearch
 ╎│•ぎ ${prefix}infogempa
 ╎│•ぎ ${prefix}nhentai
